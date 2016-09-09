@@ -96,7 +96,7 @@ public class VerticalProgressBarController implements Initializable {
     }
 
     /**
-     * calculates the percent; how is much
+     * calculates the percent; how much is
      * @volume of
      * @netVolume ?
      * @param volume
